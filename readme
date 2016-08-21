@@ -1,0 +1,3 @@
+The PyBayes library can be installed using the python setup.py install command (https://github.com/strohel/PyBayes)
+
+In order to run the examples it is only necessary to execute the pyb.py file. In case of being unable to install the PyBayes library the files can be imported by hand, since it is only made up of two files.
